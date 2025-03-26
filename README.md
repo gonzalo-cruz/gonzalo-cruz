@@ -4,7 +4,6 @@ I'm a passionate data science and engineering student from Madrid currently in m
     Discovered my passion for data science while studying telecommunications engineering
     I've founded and am the president of one of the first data science student associations in Spain 
     
-Always looking to learn and grow, currently focusing on mastering cloud technologies and software architecture.
 I'm looking forward to learning more about data science, machine learning, deep learning and cloud technologies.
 
 ## 🌐 Socials:
