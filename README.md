@@ -1,8 +1,8 @@
 # Hi! I'm Gonzalo
 I'm a passionate data science and engineering student from Madrid currently in my second year
 
-    Discovered my passion for data science while studying telecommunications engineering
-    I've founded and am the president of one of the first data science student associations in Spain 
+    -    Discovered my passion for data science while studying telecommunications engineering
+    -    I've founded and am the president of one of the first data science student associations in Spain 
     
 I'm looking forward to learning more about data science, machine learning, deep learning and cloud technologies.
 
