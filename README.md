@@ -3,7 +3,7 @@
 
 Based in **Madrid**, I am a Data Science & Engineering undergraduate with a background in Telecommunications. I bridge the gap between mathematical theory, statistical modeling, and production-grade code.
 
-I am currently the **President and Founder** of one of Spain's first Data Science Student Associations, where I organize workshops, hackathons, and lead a community of aspiring data professionals.
+I am currently the **President and Founder** of one of Spain's first Data Science Student Associations, where I help organize workshops, hackathons, and lead a community of aspiring data professionals.
 
 ---
 
